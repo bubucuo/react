@@ -373,5 +373,3 @@ function warnIfReactDOMContainerInDEV(container: any) {
     }
   }
 }
-
-// sy
