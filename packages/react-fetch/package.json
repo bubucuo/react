@@ -4,8 +4,8 @@
   "description": "Helpers for creating React data sources",
   "version": "0.0.0",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/facebook/react.git",
+    "type": "git",
+    "url": "https://github.com/facebook/react.git",
     "directory": "packages/react-fetch"
   },
   "files": [
